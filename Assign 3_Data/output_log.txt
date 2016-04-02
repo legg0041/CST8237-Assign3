@@ -1,0 +1,51 @@
+Initialize engine version: 5.3.1f1 (cc9cbbcc37b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x416)
+    Vendor:   Intel
+    VRAM:     128 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kenny\Documents\Algonquin\Unity Workspace\Assign 3 - QBert\Assign 3_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 0.477259 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.769901 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 370.
+Total: 0.245472 ms (FindLiveObjects: 0.022665 ms CreateObjectMapping: 0.014967 ms MarkObjects: 0.198858 ms  DeleteObjects: 0.008553 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.659439 ms
+
+Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 187.
+Total: 0.376761 ms (FindLiveObjects: 0.026514 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.142408 ms  DeleteObjects: 0.191588 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.322021 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 188.
+Total: 0.216819 ms (FindLiveObjects: 0.032073 ms CreateObjectMapping: 0.014112 ms MarkObjects: 0.162507 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.466995 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 370.
+Total: 0.257874 ms (FindLiveObjects: 0.033356 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.200141 ms  DeleteObjects: 0.007697 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2fb0 -> priority: 1 
+  Thread -> id: 30fc -> priority: 1 
